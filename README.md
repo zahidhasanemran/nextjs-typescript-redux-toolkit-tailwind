@@ -1,1 +1,15 @@
-# nextjs-typescript-redux-toolkit-tailwind
+## Getting Started
+
+# Typescript
+
+# Tailwind css
+
+# Next ENV
+
+#
+
+# ESLINT
+
+# Prettier
+
+#
